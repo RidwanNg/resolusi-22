@@ -3,3 +3,5 @@ iwa ng resolusi
 - buat website untuk kebaikan
 - udah namatin bahasa golang
 - udah namatin deep learing
+- udah namatin bahasa dart
+- gabung di beberapa lomba
